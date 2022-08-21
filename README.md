@@ -140,11 +140,11 @@ Para que a API rode corretamente algumas variáveis de ambiente são necessária
 
 ```json
 {
-    "OriginalHistoricDataUrl": "https://github.com/SalatielBairros/world-happiness-report/raw/main/docs/used_data/original/HistoricData.xls",
-    "Data2021Url": "https://github.com/SalatielBairros/world-happiness-report/raw/main/docs/used_data/original/Data_2021.xls",
-    "Kaggle2015Url": "https://raw.githubusercontent.com/SalatielBairros/world-happiness-report/main/docs/used_data/original/kaggle_2015.csv",
-    "Kaggle2016Url": "https://raw.githubusercontent.com/SalatielBairros/world-happiness-report/main/docs/used_data/original/kaggle_2016.csv",
-    "CountriesUsaDatabaseUrl": "https://raw.githubusercontent.com/SalatielBairros/world-happiness-report/main/docs/used_data/original/countries_usa_database.csv"
+    "OriginalHistoricDataUrl": "https://github.com/allanfoppa/world-happiness-report/raw/main/docs/used_data/original/HistoricData.xls",
+    "Data2021Url": "https://github.com/allanfoppa/world-happiness-report/raw/main/docs/used_data/original/Data_2021.xls",
+    "Kaggle2015Url": "https://raw.githubusercontent.com/allanfoppa/world-happiness-report/main/docs/used_data/original/kaggle_2015.csv",
+    "Kaggle2016Url": "https://raw.githubusercontent.com/allanfoppa/world-happiness-report/main/docs/used_data/original/kaggle_2016.csv",
+    "CountriesUsaDatabaseUrl": "https://raw.githubusercontent.com/allanfoppa/world-happiness-report/main/docs/used_data/original/countries_usa_database.csv"
 }
 ```
 
