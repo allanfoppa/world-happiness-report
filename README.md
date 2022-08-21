@@ -1,6 +1,7 @@
 # World Happines Report Regression Model
 
 - [World Happines Report Regression Model](#world-happines-report-regression-model)
+  * [Agradecimentos](#agradecimentos)
   * [Badges](#badges)
   * [Descrição do projeto](#descri--o-do-projeto)
   * [Arquitetura](#arquitetura)
@@ -28,6 +29,11 @@
   * [Melhorias futuras](#melhorias-futuras)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>TOC gerado com markdown-toc</a></i></small>
+
+## Agradecimentos
+
+Ao meu colega de projeto Salatiel Bairros pela dedicação e paciência para explicar o que ainda não estava em meus conhecimentos. O conhecimento dele fez grande diferença no resultado final deste trabalho.
+
 ## Badges
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=ENTREGUE&color=GREEN&style=for-the-badge)
