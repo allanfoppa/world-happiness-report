@@ -30,7 +30,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>TOC gerado com markdown-toc</a></i></small>
 ## Badges
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=ENTREGUE&color=GREEN&style=for-the-badge)
 
 ## Descrição do projeto
 
